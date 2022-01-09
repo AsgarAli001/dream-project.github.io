@@ -1,0 +1,944 @@
+@media screen and (max-width: 767px) {
+
+
+header .header-top-left ul li a {
+    display: block;
+    color: #000;
+    margin: 2px 0;
+    font-family: helvetica;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 14px;
+    text-align: center;
+}
+
+header .header-top-right ul li a i {
+    font-size: 14px;
+    padding: 0 2px;
+}
+
+header .header-top-right ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+header .header-navigation nav .navbar-brand img {
+    height: 2.5rem;
+    margin: 10px 0;
+}
+
+.navbar button span {
+    border: 2px solid #000;
+    padding: 3px;
+}
+
+.slider-section .carousel-item .carousel-caption {
+    height: auto;
+    margin: auto;
+}
+
+.slider-section .carousel-inner .carousel-active img {
+    width: 100%!important;
+    height: auto;
+}
+
+.slider-section .carousel-item .carousel-caption h1 {
+    font-size: 15px;
+    color: #ffdf12;
+    line-height: 0;
+    font-family: helvetica;
+    font-weight: 700;
+}
+
+.slider-section .carousel-item .carousel-caption p {
+    margin: 0;
+    font-size: 11px;
+    padding: 0;
+    color: #ffdf12;
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+.slider-section .carousel-item .carousel-caption a {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+
+
+.slider-section .carousel-item .carousel-caption h1 {
+    font-size: 15px;
+    color: #ffdf12;
+    line-height: 16px;
+    font-family: helvetica;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.slider-section .carousel-item .carousel-caption p {
+    margin-bottom: 15px;
+    font-size: 11px;
+    padding: 0;
+    color: #ffdf12;
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+
+
+button.btn.btn-white.bg-white.text-black {
+    border-radius: 0;
+    font-size: 11px;
+    font-weight: 600;
+    border: 1px solid #fff;
+    padding: 3px 7px;
+    font-family: helvetica;
+    display: inline-block;
+}
+
+button.btn.bg-transparent.text-white {
+    border-radius: 0;
+    font-size: 11px;
+    font-weight: 600;
+    border: 1px solid #fff;
+    padding: 3px 7px;
+    font-family: helvetica;
+    display: inline-block;
+}
+
+.title-tag h3 {
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.about-us .title-tag p {
+    line-height: 16px;
+    word-spacing: 0;
+    font-size: 11px;
+}
+
+.about-us p {
+    line-height: 16px;
+    word-spacing: 7px;
+    margin-bottom: 2em;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.about-us a {
+    background-color: #ffdf12;
+    text-decoration: none;
+    padding: 6px 13px;
+    color: #000;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 1em;
+    font-size: 12px;
+}
+
+.about-us img {
+    height: auto;
+    object-fit: cover;
+}
+
+.what-we-do .title-tag p {
+    font-family: Helvetica;
+    margin-bottom: 1em;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+
+.what-we-do .card {
+    border: none;
+    margin-bottom: 1em;
+}
+
+
+.what-we-do .card .card-img img {
+    width: auto;
+    height: auto;
+    border: 1px solid #ffdf0e;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.what-we-do .card-text p.main-text {
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+
+.what-we-do .card-text p.sub-text {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    font-family: helvetica;
+    font-size: 11px;
+}
+
+.what-we-do a {
+    background-color: #ffdf12;
+    text-decoration: none;
+    padding: 4px 14px;
+    color: #000;
+    font-weight: 700;
+    /* margin-bottom: 10px; */
+    font-size: 12px;
+}
+
+.our-mission img {
+    height: auto;
+    width: 100%;
+}
+
+.our-mission .first-box-text {
+    position: absolute;
+    top: 40%;
+    width: 72%;
+    right: 36px;
+    background-color: #ffdf12c4;
+    z-index: 999;
+    padding: 35px 3px 35px 3px;
+}
+
+.our-mission .first-box-text h4 {
+    font-family: helvetica;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.our-mission .first-box-text p {
+    font-family: helvetica;
+    font-weight: 600;
+    text-align: center;
+    font-size: 11px;
+}
+
+.our-mission .second-box-text h2 {
+    font-size: 15px;
+    font-family: helvetica;
+    font-weight: 700;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+
+.our-mission .second-box-text p {
+    font-family: helvetica;
+    font-weight: 600;
+    color: #dadada;
+    margin-bottom: 1em;
+    font-size: 11px;
+    text-align: center;
+}
+
+.project-section .title-tag p {
+    margin: 1rem 0;
+    font-weight: 500;
+    font-family: Helvetica;
+    font-size: 11px;
+}
+
+.project-section .project-img {
+    position: relative;
+    width: auto;
+    margin-bottom: 10px;
+    padding: 0;
+    height: auto;
+}
+
+.project-section .project-img .img-text {
+    display: block;
+    height: auto;
+}
+
+.project-section .project-img .img-overlay .img-title h5{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Helvetica;
+}
+
+.project-section .project-img .img-overlay .img-description p{
+    font-size: 11px;
+    font-family: Helvetica;
+}
+
+
+.project-section .project-img .img-overlay .img-icon img {
+    height: 15px;
+    position: absolute;
+    left: 90%;
+    top: 85%;
+}
+
+.testinomial-section .title-tag p {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.testinomial-section .title-tag h3 {
+    margin-bottom: 1rem;
+}
+
+.testinomial-section .title-tag h3 {
+    margin-bottom: 1rem;
+}
+
+.testinomial-section .title-tag p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 11px;
+}
+
+.testinomial-section .card .text-center p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 11px;
+    padding: 0 3rem;
+}
+
+.testinomial-section .card {
+    border: 1px solid #d3ca6d;
+    /* z-index: -1; */
+    height: auto;
+}
+
+.testinomial-section .card .item-text {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.card .item-text .card-name {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Helvetica;
+}
+
+footer .footer-logo h4 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 1em 0;
+}
+
+footer .footer-logo p {
+    color: #787878;
+    margin-bottom: 2em;
+    font-size: 12px;
+}
+
+footer .footer-logo img {
+    height: 2.5rem;
+}
+
+.footer-logo {
+    margin-bottom: 10px;
+}
+
+footer .foo-main h4 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: helvetica;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #787878;
+    padding-bottom: 10px;
+}
+
+footer .foo-main ul li {
+    margin-bottom: 10px;
+}
+
+footer .foo-main ul li a {
+    color: #797979;
+    font-family: helvetica;
+    font-size: 11px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+footer .subs-list h4 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: helvetica;
+    margin: 10px 0 2em 0;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #787878;
+    padding-bottom: 10px;
+}
+
+footer .subs-list p {
+    color: #787878;
+    margin-bottom: 1em;
+    font-size: 12px;
+}
+
+input.form-control {
+    background-color: #787878;
+    color: #000;
+    border: none;
+    border-radius: 0;
+    padding: 15px 10px;
+    margin: 0 0;
+}
+
+footer .subs-list button {
+    color: #000;
+    background: #ffdf12;
+    padding: 4px 16px;
+    align-items: center;
+    font-size: 15px;
+    border: none;
+}
+
+footer .footer-bottom p.text-center.text-capitalize {
+    padding: 10px;
+    font-family: helvetica;
+    font-weight: 600;
+    font-size: 11px;
+}
+
+.slider-section {
+    padding-bottom: 0em;
+}
+
+.what-we-do {
+    padding-bottom: 2em;
+}
+
+.our-mission {
+    margin: 0;
+    padding: 0;
+}
+
+.testinomial-section {
+    padding-bottom: 3em;
+}
+
+.what-we-do .card .card-img img {
+    width: auto;
+    height: 211px;
+    border: 1px solid #ffdf0e;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.project-section .project-img .img-text {
+    display: block;
+    height: 239px;
+}
+
+.project-section {
+    padding: 0;
+}
+
+.testinomial-section {
+    padding: 1em 0;
+    padding-bottom: 2em;
+}
+
+.project-section {
+    padding: 1em 0;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+
+	header .header-navigation nav .navbar-brand img {
+    height: 3rem;
+    margin: 15px 0;
+}
+
+.title-tag h3 {
+    font-size: 20px;
+}
+
+
+.slider-section .carousel-item .carousel-caption {
+    height: auto;
+    margin: auto;
+}
+
+.slider-section .carousel-item .carousel-caption h1 {
+    font-size: 2rem;
+    color: #ffdf12;
+    line-height: 2.5rem;
+    font-family: helvetica;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.slider-section .carousel-item .carousel-caption p {
+    margin-bottom: 1em;
+    font-size: 15px;
+    padding: 0;
+    color: #ffdf12;
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+.slider-section .carousel-item .carousel-caption a {
+    display: inline-block;
+    padding: 0 10px;
+    margin-bottom: 5em;
+}
+
+.about-us .title-tag h3 {
+    font-size: 20px;
+}
+
+
+
+.about-us p {
+    word-spacing: 6px;
+    line-height: 18px;
+    margin-bottom: 1em;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.about-us .title-tag p {
+    line-height: 16px;
+    word-spacing: 5px;
+    margin-bottom: 1em;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.about-us a {
+    background-color: #ffdf12;
+    text-decoration: none;
+    padding: 5px 20px;
+    color: #000;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.about-us img {
+    height: auto;
+    /* object-fit: cover; */
+}
+
+.title-tag h3 {
+    font-size: 20px;
+}
+
+.what-we-do .title-tag p {
+    font-family: Helvetica;
+    margin-bottom: 1em;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.what-we-do .card .card-img img {
+    width: auto;
+    height: 100px;
+    border: 1px solid #ffdf0e;
+    margin-bottom: 10px;
+    padding: 3px;
+}
+
+.what-we-do .card-text p.main-text {
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.what-we-do .card-text p.sub-text {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    font-family: helvetica;
+    font-size: 12px;
+    text-align: center;
+}
+
+.what-we-do a {
+    background-color: #ffdf12;
+    text-decoration: none;
+    padding: 4px 10px;
+    color: #000;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 12px;
+    display: block;
+    text-align: center;	
+}
+
+.our-mission img {
+    height: 275px;
+    width: 100%;
+}
+
+.our-mission .first-box-text h4 {
+    font-family: helvetica;
+    font-weight: 800;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.our-mission .first-box-text {
+    position: absolute;
+    top: 30%;
+    width: 76%;
+    right: -15px;
+    background-color: #ffdf12c4;
+    z-index: 999;
+    padding: 2em 0px 2em 0;
+}
+
+.our-mission .first-box-text p {
+    font-family: helvetica;
+    font-weight: 600;
+    text-align: center;
+    font-size: 12px;
+    text-align: center;
+}
+
+.our-mission .second-box-text h2 {
+    font-size: 15px;
+    font-family: helvetica;
+    font-weight: 800;
+    margin-bottom: 1em;
+}
+
+.our-mission .second-box-text p {
+    font-family: helvetica;
+    font-weight: 600;
+    color: #dadada;
+    margin-bottom: 1em;
+    font-size: 12px;
+}
+
+.project-section .project-img .img-text {
+    display: block;
+    height: 125px;
+}
+
+.project-section .project-img .img-overlay .img-title h5 {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Helvetica;
+}
+
+.project-section .project-img .img-overlay .img-description p{
+    margin-top: 0px;
+    font-size: 12px;
+    font-family: Helvetica;
+}
+
+.project-section .project-img .img-overlay .img-icon img {
+    height: 12px;
+    position: absolute;
+    left: 90%;
+    top: 85%;
+}
+
+.testinomial-section .card .text-center p {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding: 0 1.5rem;
+}
+
+.card .item-text .card-name {
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Helvetica;
+    margin-bottom: 0;
+}
+
+.item-text {
+    margin-bottom: 5px;
+}
+
+footer .footer-logo h4 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+footer .foo-main h4 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: helvetica;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #787878;
+    padding-bottom: 8px;
+}
+
+
+
+footer .subs-list h4 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: helvetica;
+    margin: 10px 0 2em 0;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #787878;
+    padding-bottom: 8px;
+}
+
+footer .footer-logo p {
+    color: #787878;
+    margin-bottom: 1em;
+    font-size: 10px;
+}
+
+footer .footer-logo img {
+    height: 2rem;
+}
+
+footer .foo-main ul li a {
+    color: #797979;
+    font-family: helvetica;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+footer .subs-list p {
+    color: #787878;
+    margin-bottom: 1em;
+    font-size: 10px;
+}
+
+input.form-control {
+    background-color: #787878;
+    color: #000;
+    border: none;
+    border-radius: 0;
+    padding: 10px 5px;
+    margin: 0 0;
+}
+
+footer .subs-list button {
+    color: #000;
+    background: #ffdf12;
+    padding: 3px 12px;
+    align-items: center;
+    font-size: 11px;
+    border: none;
+}
+
+.navbar button span {
+    border: 2px solid #000;
+    padding: 3px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 993px) and (max-width: 1099px) {
+
+	header .header-navigation nav .navbar-brand img {
+    height: 3.5rem;
+    margin: 16px 0;
+}
+
+.slider-section .carousel-inner .carousel-active img{
+    width: 100%!important;
+    height: auto;
+}
+
+.slider-section .carousel-item .carousel-caption {
+    height: auto;
+    margin: auto;
+}
+
+.slider-section .carousel-item .carousel-caption h1 {
+    font-size: 3rem;
+    color: #ffdf12;
+    line-height: 4rem;
+    font-family: helvetica;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.slider-section .carousel-item .carousel-caption p {
+    margin-bottom: 3em;
+    font-size: 16px;
+    padding: 0;
+    color: #ffdf12;
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+.about-us img {
+    height: 700px;
+    /* object-fit: cover; */
+}
+
+.what-we-do .card .card-img img {
+    width: auto;
+    height: 131px;
+    border: 2px solid #ffdf0e;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.what-we-do .card-text p.main-text {
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 13px;
+}
+
+.our-mission .first-box-text {
+    position: absolute;
+    top: 30%;
+    width: 78%;
+    right: -15px;
+    background-color: #ffdf12c4;
+    z-index: 999;
+    padding: 3em 1em 3em 2em;
+}
+
+.project-section .project-img .img-text {
+    display: block;
+    height: 168px;
+}
+
+.project-section .project-img .img-overlay .img-title h5{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Helvetica;
+}
+
+.project-section .project-img .img-overlay .img-description p{
+    margin-top: 0px;
+    font-size: 16px;
+    font-family: Helvetica;
+}
+
+.project-section .project-img .img-overlay .img-icon img {
+    height: 25px;
+    position: absolute;
+    left: 85%;
+    top: 75%;
+}
+
+footer .footer-logo img {
+    height: 3rem;
+}
+
+
+.slider-section .carousel-item .carousel-caption a {
+    display: inline-block;
+    padding: 0 10px;
+    margin-bottom: 7em;
+}
+
+.slider-section .carousel-item .carousel-caption p {
+    margin-bottom: 2em;
+    font-size: 16px;
+    padding: 0;
+    color: #ffdf12;
+    font-family: helvetica;
+    font-weight: 600;
+}
+
+.slider-section .carousel-item .carousel-caption h1 {
+    font-size: 3rem;
+    color: #ffdf12;
+    line-height: 4rem;
+    font-family: helvetica;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.about-us img {
+    height: 700px;
+    object-fit: contain;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
